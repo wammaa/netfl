@@ -23,3 +23,11 @@
 .banner-text-area > *{
   z-index: 2;
 }
+@media screen and (max-width:800px) {
+  .overview{
+    display:none;
+  }
+  .banner-text-area{
+    width:70%;
+  }
+} 
