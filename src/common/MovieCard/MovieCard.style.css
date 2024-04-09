@@ -25,3 +25,6 @@
   transform: scale(1.3) translateZ(20px);
   z-index:2;
 }
+.genre-badge{
+  margin-right:3px;
+}
